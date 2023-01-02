@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-ipinfo": "^3.1.1",
+    "socket.io": "^4.5.1"
+  }
+}
